@@ -56,9 +56,10 @@ div h3{
 }
 #you {
     padding: 18px;
-    background-color: coral;
-    margin:0px 0px 0px 0px ;
+    background-color: rgb(95, 119, 10);
+    margin: 0px 201px 15px 191px;
     border-radius: 10px;
+    color: white;
 }
     
 footer{
